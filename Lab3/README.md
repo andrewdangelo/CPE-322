@@ -1,7 +1,7 @@
 # Lab 3A Modified: Python 
 Changes made:
 * Added steps in the run scripts to have people create a virtual environment (venv) to run their python code in.
-* I added a *system_info_alternative.py* file to provided system information for mac, windows, and linux operating systems so that the *system_info.py* is no longer exlusive to the raspberry pi.
+* I added a *system_info_alternative.py* file to provided system information for mac, windows, and linux operating systems so that the *system_info.py* is no longer exclusive to the raspberry pi.
 
 ### NOTE: Raspberry Pi OS (or macOS/Linux) has both Python 2 and Python 3 already preinstalled
 ### WARNING: Don't upgrade the preinstalled Python or PIP on Raspberry Pi OS
